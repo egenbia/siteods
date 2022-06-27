@@ -1,0 +1,214 @@
+.wrapper{
+    background-color: #a0caa4;
+    width:98.9vw;
+    height: 390vh;
+    left: 0vw;
+    top: 0vh;
+    position: absolute;
+    }
+    
+    .top{
+    position: absolute;    
+    width:98.9vw;
+    height: 80vh;
+    left: 0vw;
+    top: 0vh;
+    z-index: 1;
+    }
+    
+    .sombra{
+    position: absolute;
+    width:98.9vw;
+    height: 10vh;
+    left: 0vw;
+    top: 80vh;
+    background-color: #0e5c1644;
+    z-index: 2;
+    }
+    
+    .conteudo{
+    position: absolute;
+    width:80vw;
+    height: 50vh;
+    left: 9vw;
+    margin-top: 100vh;
+    background-color: #0335194c;
+    z-index: 1;
+    }
+    
+    .divimg-top{
+    position: absolute;    
+    width:98.9vw;
+    height: 80vh;
+    left: 0vw;
+    top: 0vh;  
+    z-index: 1;
+    }
+    
+    .img-top{
+    position: absolute;    
+    width:98.9vw;
+    height: 80vh;
+    left: 0vw;
+    top: 0vh; 
+    z-index: 1;
+    }
+    
+    .div-text1{
+    position: absolute;
+    width: 50vw;;
+    height: 50vh;
+    left: 28vw;
+    top: 20vh;
+    z-index: 2;
+    }
+    
+    .text1{
+    position: absolute;
+    font-family:Edwardian Script ITC ;
+    font-size: 100px;
+    color: #ffffff;
+    }  
+    
+    .div-text2{
+    position: absolute;
+    width:70vw;
+    height: 50vh;
+    left: 5vw;
+    margin-top: 10vh;
+    z-index: 2;
+    }
+    
+    .text2{
+    position: absolute;
+    font-family: Candara Light ;
+    font-size: 30px;
+    color: #ffffff;
+    }
+    
+    .objetivos{
+    position: relativo;
+    width:70vw;
+    height: 500vh;
+    margin-left: 10vw;
+    margin-top: 160vh;
+    z-index: 1;
+    }
+    
+    .div-text3{
+    position: relativo;
+    width: 70vw;
+    height: 400vh;
+    left: 00vw;
+    margin-top: 00vh;
+    z-index: 2;
+    }
+    
+    .text01{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .text02{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .text3{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .text4{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .text5{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .text6{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .text7{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .text8{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .text9{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .texta{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .textb{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .textc{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .textd{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    }
+    
+    .footer{
+    background-color: #03351965;
+    width:98.9vw;
+    height: 30vh;
+    left: 0vw;
+    top: 360vh;
+    position: absolute;
+    }
+    
+    .text-footer{
+    position: relativo;
+    font-family: Candara Light ;
+    font-size:25px;
+    color: #ffffff;
+    margin-top: 12.5vh;
+    margin-left: 30vw;
+    } 
