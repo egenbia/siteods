@@ -1,5 +1,5 @@
 .wrapper{
-    background-color: #a0caa4;
+    background-color: #4c9f38;
     width:98.9vw;
     height: 390vh;
     left: 0vw;
@@ -16,23 +16,13 @@
     z-index: 1;
     }
     
-    .sombra{
-    position: absolute;
-    width:98.9vw;
-    height: 10vh;
-    left: 0vw;
-    top: 80vh;
-    background-color: #0e5c1644;
-    z-index: 2;
-    }
-    
     .conteudo{
     position: absolute;
     width:80vw;
-    height: 50vh;
+    height: 30vh;
     left: 9vw;
-    margin-top: 100vh;
-    background-color: #0335194c;
+    margin-top: 120vh;
+    background-color: #cbdad14c;
     z-index: 1;
     }
     
@@ -48,12 +38,22 @@
     .img-top{
     position: absolute;    
     width:98.9vw;
-    height: 80vh;
+    height: 70vh;
     left: 0vw;
     top: 0vh; 
     z-index: 1;
     }
     
+    .imgsb{
+        position: absolute;    
+        width:98.9vw;
+        height: 60vh;
+        left: 0vw;
+        top: 60vh; 
+        align-items: center;
+        z-index: 1;
+        }
+        
     .div-text1{
     position: absolute;
     width: 50vw;;
@@ -66,16 +66,17 @@
     .text1{
     position: absolute;
     font-family:Edwardian Script ITC ;
-    font-size: 100px;
+    font-size: 50px;
+    top: 390px;
     color: #ffffff;
-    }  
+    } 
     
     .div-text2{
     position: absolute;
     width:70vw;
     height: 50vh;
     left: 5vw;
-    margin-top: 10vh;
+    margin-top: 2vh;
     z-index: 2;
     }
     
@@ -103,96 +104,46 @@
     margin-top: 00vh;
     z-index: 2;
     }
-    
-    .text01{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
+
+    .colorido{
+        color: #ffffff;
+        font-family: Candara Light ;
+        font-size: 18px;
+        position: absolute;
+        text-align: center;
     }
     
-    .text02{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
+    .imgcolorida{
+        top: 1200px;
+        right: 200px;
+        position: absolute;
     }
-    
-    .text3{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
+
+    .coracao{
+        top: 1750px;
+        height: 10px;
+        left: 200px;
+        position: absolute;
     }
-    
-    .text4{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
+
+    .texto2{
+        position: absolute;
+        color: #ffffff;
+        font-family: Candara Light ;
+        font-size: 18px;
+        text-align: center;
+        right: 100px;
+        top: 1750px;
     }
-    
-    .text5{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
-    }
-    
-    .text6{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
-    }
-    
-    .text7{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
-    }
-    
-    .text8{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
-    }
-    
-    .text9{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
-    }
-    
-    .texta{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
-    }
-    
-    .textb{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
-    }
-    
-    .textc{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
-    }
-    
-    .textd{
-    position: relativo;
-    font-family: Candara Light ;
-    font-size:25px;
-    color: #ffffff;
+
+    .ultimotext{
+        position: absolute;
+        color: #ffffff;
+        font-family: Candara Light ;
+        font-size: 18px;
+        text-align: center;
+        left: 250px;
+        top: 2240px;
     }
     
     .footer{
